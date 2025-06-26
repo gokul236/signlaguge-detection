@@ -1,0 +1,14 @@
+installation pacakages
+
+commands
+
+pip install opencv-python
+
+pip install mediapipe
+
+pip install protobuf
+
+
+#Install all dependencies at one command
+
+pip install opencv-python mediapipe protobuf
